@@ -142,4 +142,4 @@ Aspiring Data Analyst | SQL | Power BI | Excel | Python
 
 GitHub: https://github.com/Vishwasr23
 
-LinkedIn: https://www.linkedin.com/in/vishwas-r-930452347/
+LinkedIn: www.linkedin.com/in/Vishwas-Ramesh
