@@ -1,3 +1,15 @@
+👤 Author
+
+Vishwas R
+
+Data Analyst | SQL | Power BI | Excel
+
+📧 rvishwas960@gmail.com
+
+💼 LinkedIn
+
+🐙 GitHub
+
 
 ---
 
