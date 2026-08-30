@@ -15,13 +15,6 @@ Data Analyst | SQL | Power BI | Excel
 
 # 3. WORKPLACE HEALTH & SAFETY README
 
-Your current README is actually good technically, but it's **too documentation-heavy**.
-
-A recruiter doesn't need to read 50 SQL queries before understanding the project.
-
-Replace it with:
-
-```markdown
 # 🦺 Workplace Health & Safety Analytics
 
 ## Project Overview
@@ -72,7 +65,7 @@ The objective is to identify:
 
 ## 🔄 Project Workflow
 
-```text
+
 Raw Dataset
      ↓
 Data Cleaning
