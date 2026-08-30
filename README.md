@@ -1,15 +1,3 @@
-👤 Author
-
-Vishwas R
-
-Data Analyst | SQL | Power BI | Excel
-
-📧 rvishwas960@gmail.com
-
-💼 LinkedIn
-
-🐙 GitHub
-
 
 ---
 
@@ -77,3 +65,16 @@ Power BI Data Modeling
 Interactive Dashboard
      ↓
 Business Insights
+
+
+👤 Author
+
+Vishwas R
+
+Data Analyst | SQL | Power BI | Excel
+
+📧 rvishwas960@gmail.com
+
+💼 LinkedIn
+
+🐙 GitHub
