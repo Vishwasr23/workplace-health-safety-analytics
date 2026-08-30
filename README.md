@@ -1,24 +1,44 @@
-# Workplace Health & Safety Analytics Dashboard
+
+---
+
+# 3. WORKPLACE HEALTH & SAFETY README
+
+Your current README is actually good technically, but it's **too documentation-heavy**.
+
+A recruiter doesn't need to read 50 SQL queries before understanding the project.
+
+Replace it with:
+
+```markdown
+# 🦺 Workplace Health & Safety Analytics
 
 ## Project Overview
 
-This project analyzes OSHA Workplace Health & Safety incident data using SQL and Power BI to identify workplace risks, injury patterns, and key safety trends. The objective is to transform raw safety records into actionable business insights through data analysis and visualization.
+An end-to-end workplace health and safety analytics project using
+SQL and Power BI to analyze workplace incidents, identify risk
+patterns and generate actionable safety insights.
+
+The project transforms raw OSHA incident records into structured
+analysis and an interactive Power BI dashboard.
 
 ---
 
-## Objectives
+## 🎯 Business Objective
 
-- Analyze workplace incident data
-- Identify major causes of workplace accidents
-- Discover injury patterns and trends
-- Build an interactive Power BI dashboard
-- Generate business insights for improving workplace safety
+The objective is to identify:
+
+- Major workplace incident types
+- Common causes of incidents
+- Injury severity patterns
+- Major human factors
+- Common injury types
+- Areas requiring safety improvement
 
 ---
 
-## Dataset
+## 📊 Dataset
 
-**Dataset Name:** OSHA HSE DATA ALL ABSTRACTS 15-17 FINAL
+**Dataset:** OSHA HSE DATA ALL ABSTRACTS 15-17 FINAL
 
 **Source:** OSHA Workplace Health & Safety Records
 
@@ -28,118 +48,29 @@ This project analyzes OSHA Workplace Health & Safety incident data using SQL and
 
 ---
 
-## Tools & Technologies
+## 🛠️ Tools & Technologies
 
-- SQL (MySQL)
+- MySQL
+- SQL
 - Power BI
 - Microsoft Excel
 - GitHub
 
 ---
 
-## Project Workflow
+## 🔄 Project Workflow
 
-1. Data Cleaning
-2. SQL Data Analysis
-3. Business KPI Analysis
-4. Power BI Dashboard Development
-5. Business Insights
-6. Documentation
-
----
-
-## SQL Analysis
-
-The project contains **50 SQL business queries**, including:
-
-- Data Exploration
-- Trend Analysis
-- Root Cause Analysis
-- KPI Analysis
-- Advanced SQL
-- CTEs
-- Window Functions
-- Ranking
-- Running Totals
-- LAG Functions
-
----
-
-## Dashboard Features
-
-The Power BI dashboard includes:
-
-- Total Incidents
-- Top Event Types
-- Degree of Injury Distribution
-- Top Human Factors
-- Top Nature of Injuries
-
----
-
-## Dashboard Preview
-
-> Add your dashboard screenshot here.
-
-Example:
-
-![Dashboard](PowerBI/Dashboard.png)
-
----
-
-## Key Business Insights
-
-- Identified the most common workplace event types.
-- Analyzed major human factors contributing to incidents.
-- Examined the distribution of injury severity.
-- Identified the most common injury types.
-- Provided insights to support workplace safety improvements.
-
----
-
-## Skills Demonstrated
-
-- Data Cleaning
-- SQL
-- Power BI
-- Data Visualization
-- Business Intelligence
-- Dashboard Design
-- KPI Reporting
-- Analytical Thinking
-
----
-
-## Repository Structure
-
-```
-Workplace-Health-Safety-Analytics/
-│
-├── Dataset/
-├── SQL/
-├── PowerBI/
-├── Documentation/
-├── README.md
-└── LICENSE
-```
-
----
-
-## Future Improvements
-
-- Add time-series trend analysis.
-- Include interactive dashboard filters.
-- Expand KPI reporting.
-- Integrate additional workplace safety datasets.
-
----
-
-## Author
-
-**Vishwas R**
-
-Aspiring Data Analyst | SQL | Power BI | Excel | Python
-
-GitHub: https://github.com/Vishwasr23
-
-LinkedIn: www.linkedin.com/in/Vishwas-Ramesh
+```text
+Raw Dataset
+     ↓
+Data Cleaning
+     ↓
+SQL Analysis
+     ↓
+KPI Development
+     ↓
+Power BI Data Modeling
+     ↓
+Interactive Dashboard
+     ↓
+Business Insights
