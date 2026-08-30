@@ -13,8 +13,6 @@ Data Analyst | SQL | Power BI | Excel
 
 ---
 
-# 3. WORKPLACE HEALTH & SAFETY README
-
 # 🦺 Workplace Health & Safety Analytics
 
 ## Project Overview
@@ -65,7 +63,7 @@ The objective is to identify:
 
 ## 🔄 Project Workflow
 
-
+```text
 Raw Dataset
      ↓
 Data Cleaning
