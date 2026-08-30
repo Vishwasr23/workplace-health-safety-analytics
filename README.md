@@ -118,7 +118,10 @@ Workplace-Health-Safety-Analytics/
 ├── Documentation/
 ├── README.md
 └── LICENSE
+
+
 🎯 Skills Demonstrated
+
 SQL
 MySQL
 CTEs
@@ -131,6 +134,9 @@ KPI Reporting
 Dashboard Development
 Root Cause Analysis
 Business Intelligence
+
+
+
 👤 Author
 
 Vishwas R
